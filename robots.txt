@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://lilaclau.github.io/al-folio/sitemap.xml
+Sitemap: https://lilaclau.github.io/sitemap.xml
